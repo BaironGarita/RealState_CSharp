@@ -1,0 +1,1 @@
+﻿enum TipoEstado { Rojo, Verde, Amarillo }

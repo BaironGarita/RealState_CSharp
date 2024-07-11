@@ -1,0 +1,1 @@
+﻿enum TipoProveedor { ICE=1, CLARO}

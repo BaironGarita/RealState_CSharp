@@ -1,0 +1,857 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3AC0F8CD-8524-4B6D-808B-11D342888A1A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Controles</RootNamespace>
+    <AssemblyName>Controles</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MessagingToolkit.QRCode, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MessagingToolkit.QRCode.1.3.0\lib\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ListBox\Comida.cs" />
+    <Compile Include="Parallel\frmParallel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parallel\frmParallel.Designer.cs">
+      <DependentUpon>frmParallel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Factory Method\Claro.cs" />
+    <Compile Include="ComboBox\Provincia.cs" />
+    <Compile Include="Dictionary\Cancion.cs" />
+    <Compile Include="Dictionary\frmDictionary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dictionary\frmDictionary.Designer.cs">
+      <DependentUpon>frmDictionary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dictionary\Ipod.cs" />
+    <Compile Include="Acercade\frmAcercade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acercade\frmAcercade.Designer.cs">
+      <DependentUpon>frmAcercade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColorDialog\frmColorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ColorDialog\frmColorDialog.Designer.cs">
+      <DependentUpon>frmColorDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBox\frmComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboBox\frmComboBox.Designer.cs">
+      <DependentUpon>frmComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Botones\frmBoton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Botones\frmBoton.Designer.cs">
+      <DependentUpon>frmBoton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckBox\frmCheckbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckBox\frmCheckbox.Designer.cs">
+      <DependentUpon>frmCheckbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConversionesTipo\frmConversionesdeTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConversionesTipo\frmConversionesdeTipo.Designer.cs">
+      <DependentUpon>frmConversionesdeTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimePicker\frmDataTimePicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateTimePicker\frmDataTimePicker.Designer.cs">
+      <DependentUpon>frmDataTimePicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejecutable\frmEjecutable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejecutable\frmEjecutable.Designer.cs">
+      <DependentUpon>frmEjecutable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Factory Method\FactoryProveedor.cs" />
+    <Compile Include="Patrones_Diseno\Factory Method\Factura.cs" />
+    <Compile Include="FolderBrowserDialog\frmFolderBrowserDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FolderBrowserDialog\frmFolderBrowserDialog.Designer.cs">
+      <DependentUpon>frmFolderBrowserDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuncionesMatematicas\frmFuncionesMatematicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuncionesMatematicas\frmFuncionesMatematicas.Designer.cs">
+      <DependentUpon>frmFuncionesMatematicas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataGridView\Empleado.cs" />
+    <Compile Include="DataGridView\frmGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataGridView\frmGrid.Designer.cs">
+      <DependentUpon>frmGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Factory Method\ICE.cs" />
+    <Compile Include="Patrones_Diseno\Factory Method\IProveedor.cs" />
+    <Compile Include="JSON\Deposito.cs" />
+    <Compile Include="JSON\frmJSON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JSON\frmJSON.Designer.cs">
+      <DependentUpon>frmJSON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lambdas\frmLambdaExpresions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lambdas\frmLambdaExpresions.Designer.cs">
+      <DependentUpon>frmLambdaExpresions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lambdas\Persona.cs" />
+    <Compile Include="ListBox\frmListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListBox\frmListBox.Designer.cs">
+      <DependentUpon>frmListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListView\frmListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListView\frmListView.Designer.cs">
+      <DependentUpon>frmListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManejoString\frmManejoString.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManejoString\frmManejoString.Designer.cs">
+      <DependentUpon>frmManejoString.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaskedTextBox\frmMaskedTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaskedTextBox\frmMaskedTextBox.Designer.cs">
+      <DependentUpon>frmMaskedTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumericUpDown\frmNumericUpDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumericUpDown\frmNumericUpDown.Designer.cs">
+      <DependentUpon>frmNumericUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumerosAleatorios\frmNumerosAleatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumerosAleatorios\frmNumerosAleatorios.Designer.cs">
+      <DependentUpon>frmNumerosAleatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpenFileDialog\frmOpenFileDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpenFileDialog\frmOpenFileDialog.Designer.cs">
+      <DependentUpon>frmOpenFileDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\frmParametros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\frmParametros.Designer.cs">
+      <DependentUpon>frmParametros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Abstract Factory\AfricaFactory.cs" />
+    <Compile Include="Patrones_Diseno\Abstract Factory\AmericaFactory.cs" />
+    <Compile Include="Patrones_Diseno\Abstract Factory\AnimalWorld.cs" />
+    <Compile Include="Patrones_Diseno\Abstract Factory\Bison.cs" />
+    <Compile Include="Patrones_Diseno\Abstract Factory\Carnivore.cs" />
+    <Compile Include="Patrones_Diseno\Abstract Factory\ContinentFactory.cs" />
+    <Compile Include="Patrones_Diseno\Abstract Factory\frmAbstractFactory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Abstract Factory\frmAbstractFactory.Designer.cs">
+      <DependentUpon>frmAbstractFactory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Abstract Factory\Herbivore.cs" />
+    <Compile Include="Patrones_Diseno\Abstract Factory\Lion.cs" />
+    <Compile Include="Patrones_Diseno\Abstract Factory\Wildebeest.cs" />
+    <Compile Include="Patrones_Diseno\Abstract Factory\Wolf.cs" />
+    <Compile Include="Patrones_Diseno\Factory Method\Enumeraciones.cs" />
+    <Compile Include="Patrones_Diseno\Factory Method\frmFactoryMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Factory Method\frmFactoryMethod.Designer.cs">
+      <DependentUpon>frmFactoryMethod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Factory\CheesePizza.cs" />
+    <Compile Include="Patrones_Diseno\Factory\frmFactory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Factory\frmFactory.Designer.cs">
+      <DependentUpon>frmFactory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Factory\PepperoniPizza.cs" />
+    <Compile Include="Patrones_Diseno\Factory\Pizza.cs" />
+    <Compile Include="Patrones_Diseno\Factory\PizzaStore.cs" />
+    <Compile Include="Patrones_Diseno\Factory\SimplePizzaFactory.cs" />
+    <Compile Include="Patrones_Diseno\Observer\UsuarioUTN.cs" />
+    <Compile Include="Patrones_Diseno\Observer\frmObserver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Observer\frmObserver.Designer.cs">
+      <DependentUpon>frmObserver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Observer\IObserver.cs" />
+    <Compile Include="Patrones_Diseno\Observer\ISubject.cs" />
+    <Compile Include="Patrones_Diseno\Observer\UsuarioCaraLibro.cs" />
+    <Compile Include="Patrones_Diseno\Proxy\Comunica.cs" />
+    <Compile Include="Patrones_Diseno\Proxy\ComunicaProxy.cs" />
+    <Compile Include="Patrones_Diseno\Proxy\frmProxy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Proxy\frmProxy.Designer.cs">
+      <DependentUpon>frmProxy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Proxy\IComunica.cs" />
+    <Compile Include="Patrones_Diseno\Singleton\Computer.cs" />
+    <Compile Include="Patrones_Diseno\Singleton\frmSingleton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patrones_Diseno\Singleton\frmSingleton.Designer.cs">
+      <DependentUpon>frmSingleton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\State\Enumeraciones.cs" />
+    <Compile Include="Patrones_Diseno\State\frmState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patrones_Diseno\State\frmState.Designer.cs">
+      <DependentUpon>frmState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patrones_Diseno\State\IEstadoLuzTrafico.cs" />
+    <Compile Include="Patrones_Diseno\State\LuzAmarilla.cs" />
+    <Compile Include="Patrones_Diseno\State\LuzRoja.cs" />
+    <Compile Include="Patrones_Diseno\State\LuzTrafico.cs" />
+    <Compile Include="Patrones_Diseno\State\LuzVerde.cs" />
+    <Compile Include="Pila_Cola\Cola.cs" />
+    <Compile Include="Pila_Cola\frmPilasColas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pila_Cola\frmPilasColas.Designer.cs">
+      <DependentUpon>frmPilasColas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProgressBar\frmProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressBar\frmProgressBar.Designer.cs">
+      <DependentUpon>frmProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QuickResponse\frmQuickResponse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuickResponse\frmQuickResponse.Designer.cs">
+      <DependentUpon>frmQuickResponse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuickResponse\QuickResponse.cs" />
+    <Compile Include="Reflection\frmReflection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reflection\frmReflection.Designer.cs">
+      <DependentUpon>frmReflection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reflection\Neurona.cs" />
+    <Compile Include="RichTextBox\frmRichText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RichTextBox\frmRichText.Designer.cs">
+      <DependentUpon>frmRichText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\WebService\frmWebService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\WebService\frmWebService.Designer.cs">
+      <DependentUpon>frmWebService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Speak\frmSpeak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Speak\frmSpeak.Designer.cs">
+      <DependentUpon>frmSpeak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplitContainer\frmSplitContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplitContainer\frmSplitContainer.Designer.cs">
+      <DependentUpon>frmSplitContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sprites\frmSprite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sprites\frmSprite.Designer.cs">
+      <DependentUpon>frmSprite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sprites\SpriteBalon.cs" />
+    <Compile Include="StatusStrip\frmStatusStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatusStrip\frmStatusStrip.Designer.cs">
+      <DependentUpon>frmStatusStrip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TabControl\frmTabControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabControl\frmTabControl.Designer.cs">
+      <DependentUpon>frmTabControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teclas\frmTeclas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teclas\frmTeclas.Designer.cs">
+      <DependentUpon>frmTeclas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Timer\frmTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Timer\frmTimer.Designer.cs">
+      <DependentUpon>frmTimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolStrip\frmToolStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolStrip\frmToolStrip.Designer.cs">
+      <DependentUpon>frmToolStrip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolTip\frmToolTip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolTip\frmToolTip.Designer.cs">
+      <DependentUpon>frmToolTip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TreeView\frmTreeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TreeView\frmTreeView.Designer.cs">
+      <DependentUpon>frmTreeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Task\frmEjemploAviones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task\frmEjemploAviones.Designer.cs">
+      <DependentUpon>frmEjemploAviones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pila_Cola\Pila.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TreeView\frmTreeView2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TreeView\frmTreeView2.Designer.cs">
+      <DependentUpon>frmTreeView2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Comprimir\Compresor.cs" />
+    <Compile Include="UserControls\Encriptar\AES.cs" />
+    <Compile Include="UserControls\frmUserControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControls\frmUserControl.Designer.cs">
+      <DependentUpon>frmUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Encriptar\IEncripta.cs" />
+    <Compile Include="UserControls\Encriptar\ILlaves.cs" />
+    <Compile Include="UserControls\Encriptar\RSA.cs" />
+    <Compile Include="UserControls\Encriptar\TripleDES.cs" />
+    <Compile Include="UserControls\uscComprimir.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\uscComprimir.Designer.cs">
+      <DependentUpon>uscComprimir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\uscEncriptar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\uscEncriptar.Designer.cs">
+      <DependentUpon>uscEncriptar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\WebApi\frmWebApi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\WebApi\frmWebApi.Designer.cs">
+      <DependentUpon>frmWebApi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\WebApi\Pais.cs" />
+    <Compile Include="Web References\Agente\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="XML\frmXML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XML\frmXML.Designer.cs">
+      <DependentUpon>frmXML.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dictionary\frmDictionary.resx">
+      <DependentUpon>frmDictionary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acercade\frmAcercade.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAcercade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColorDialog\frmColorDialog.resx">
+      <DependentUpon>frmColorDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboBox\frmComboBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Botones\frmBoton.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBoton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckBox\frmCheckbox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCheckbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConversionesTipo\frmConversionesdeTipo.resx">
+      <DependentUpon>frmConversionesdeTipo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimePicker\frmDataTimePicker.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDataTimePicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejecutable\frmEjecutable.resx">
+      <DependentUpon>frmEjecutable.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FolderBrowserDialog\frmFolderBrowserDialog.resx">
+      <DependentUpon>frmFolderBrowserDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuncionesMatematicas\frmFuncionesMatematicas.resx">
+      <DependentUpon>frmFuncionesMatematicas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataGridView\frmGrid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JSON\frmJSON.resx">
+      <DependentUpon>frmJSON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lambdas\frmLambdaExpresions.resx">
+      <DependentUpon>frmLambdaExpresions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListBox\frmListBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListView\frmListView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManejoString\frmManejoString.resx">
+      <DependentUpon>frmManejoString.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaskedTextBox\frmMaskedTextBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMaskedTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumericUpDown\frmNumericUpDown.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmNumericUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumerosAleatorios\frmNumerosAleatorios.resx">
+      <DependentUpon>frmNumerosAleatorios.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpenFileDialog\frmOpenFileDialog.resx">
+      <DependentUpon>frmOpenFileDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parallel\frmParallel.resx">
+      <DependentUpon>frmParallel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\frmParametros.resx">
+      <DependentUpon>frmParametros.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patrones_Diseno\Abstract Factory\frmAbstractFactory.resx">
+      <DependentUpon>frmAbstractFactory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patrones_Diseno\Factory Method\frmFactoryMethod.resx">
+      <DependentUpon>frmFactoryMethod.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patrones_Diseno\Factory\frmFactory.resx">
+      <DependentUpon>frmFactory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patrones_Diseno\Observer\frmObserver.resx">
+      <DependentUpon>frmObserver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patrones_Diseno\Proxy\frmProxy.resx">
+      <DependentUpon>frmProxy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patrones_Diseno\Singleton\frmSingleton.resx">
+      <DependentUpon>frmSingleton.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patrones_Diseno\State\frmState.resx">
+      <DependentUpon>frmState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pila_Cola\frmPilasColas.resx">
+      <DependentUpon>frmPilasColas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressBar\frmProgressBar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuickResponse\frmQuickResponse.resx">
+      <DependentUpon>frmQuickResponse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reflection\frmReflection.resx">
+      <DependentUpon>frmReflection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RichTextBox\frmRichText.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRichText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\WebService\frmWebService.resx">
+      <DependentUpon>frmWebService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Speak\frmSpeak.resx">
+      <DependentUpon>frmSpeak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplitContainer\frmSplitContainer.resx">
+      <DependentUpon>frmSplitContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sprites\frmSprite.resx">
+      <DependentUpon>frmSprite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatusStrip\frmStatusStrip.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmStatusStrip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabControl\frmTabControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTabControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teclas\frmTeclas.resx">
+      <DependentUpon>frmTeclas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Timer\frmTimer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolStrip\frmToolStrip.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmToolStrip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolTip\frmToolTip.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmToolTip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TreeView\frmTreeView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTreeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task\frmEjemploAviones.resx">
+      <DependentUpon>frmEjemploAviones.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PropertyGrid\frmPropertyGrid.resx">
+      <DependentUpon>frmPropertyGrid.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TreeView\frmTreeView2.resx">
+      <DependentUpon>frmTreeView2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\frmUserControl.resx">
+      <DependentUpon>frmUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\uscComprimir.resx">
+      <DependentUpon>uscComprimir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\uscEncriptar.resx">
+      <DependentUpon>uscEncriptar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\WebApi\frmWebApi.resx">
+      <DependentUpon>frmWebApi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XML\frmXML.resx">
+      <DependentUpon>frmXML.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Patrones_Diseno\Factory Method\diagrama.cd" />
+    <None Include="Patrones_Diseno\Factory\diagrama.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PropertyGrid\Celular.cs" />
+    <Compile Include="PropertyGrid\frmPropertyGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PropertyGrid\frmPropertyGrid.Designer.cs">
+      <DependentUpon>frmPropertyGrid.cs</DependentUpon>
+    </Compile>
+    <None Include="UserControls\diagrama.cd" />
+    <None Include="Web References\Agente\dataResult.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Agente\fileResult.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Agente\groundStationDescription.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Agente\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\Agente\satelliteDescription.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Agente\SatelliteSituationCenterService.wsdl" />
+    <None Include="Web References\Agente\SatelliteSituationCenterService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\Agente\spaseObservatoryDescription.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boing.wav" />
+    <None Include="Resources\Visual-Studio-2015.jpg" />
+    <None Include="Resources\internet-application1.png" />
+    <None Include="Resources\MediaPlayerSkinSmall.bmp" />
+    <None Include="Resources\configure.png" />
+    <None Include="Resources\preferences-desktop-keyboard-4.png" />
+    <Content Include="Resources\Wallpaper.jpg" />
+    <None Include="Resources\wallpaper2022.jpg" />
+    <Content Include="Sprites\boing.wav" />
+    <None Include="Resources\wallpaperVS2015.png" />
+    <None Include="Resources\audio-card.png" />
+    <None Include="Resources\visual_studio_logo_purple.jpg" />
+    <None Include="Resources\UTN.jpg" />
+    <None Include="Resources\caralibro.jpg" />
+    <None Include="Resources\lambdaimagen1.png" />
+    <None Include="Resources\lambdaimagen.png" />
+    <None Include="Resources\lambda.jpg" />
+    <None Include="Resources\lambda.png" />
+    <None Include="Resources\WALLPAPER3.png" />
+    <None Include="Resources\WALLPAPER2.jpg" />
+    <None Include="Bitmaps\b-2.jpg" />
+    <None Include="Bitmaps\CsharpWallpaper.jpg" />
+    <None Include="Bitmaps\bison.jpg" />
+    <None Include="Bitmaps\c-y-mono.png" />
+    <None Include="Bitmaps\C32x32\feed.png" />
+    <None Include="Bitmaps\brainstorming.png" />
+    <None Include="Bitmaps\archive48.png" />
+    <Content Include="Bitmaps\ClaroLogo.jpg" />
+    <None Include="Bitmaps\configuration48.png" />
+    <None Include="Bitmaps\E32x32\collaboration.png" />
+    <None Include="Bitmaps\F32x32\bestseller.png" />
+    <None Include="Bitmaps\D32x32\calendar.png" />
+    <None Include="Bitmaps\E32x32\world.png" />
+    <None Include="Bitmaps\F32x32\premium.png" />
+    <None Include="Bitmaps\F32x32\sign-out.png" />
+    <None Include="Bitmaps\E32x32\finished-work.png" />
+    <None Include="Bitmaps\E32x32\logout.png" />
+    <None Include="Bitmaps\communication.png" />
+    <None Include="Bitmaps\future-projects.png" />
+    <None Include="Bitmaps\feed.png" />
+    <None Include="Bitmaps\E32x32\archives.png" />
+    <None Include="Bitmaps\E32x32\document-library.png" />
+    <Content Include="Bitmaps\galaxias.jpg" />
+    <None Include="Bitmaps\Helicoptero.jpg" />
+    <None Include="Bitmaps\Mig29.jpg" />
+    <None Include="Bitmaps\Ipod.jpg" />
+    <None Include="Bitmaps\leon.jpg" />
+    <None Include="Bitmaps\memory.png" />
+    <None Include="Bitmaps\library.png" />
+    <None Include="Bitmaps\link.png" />
+    <None Include="Bitmaps\license.png" />
+    <None Include="Bitmaps\lightbulb.png" />
+    <None Include="Bitmaps\Icons\GOM.ico" />
+    <None Include="Bitmaps\Icons\Writing.ico" />
+    <None Include="Bitmaps\Icons\Recycle.ico" />
+    <None Include="Bitmaps\Icons\Folder.ico" />
+    <None Include="Bitmaps\Icons\Power.ico" />
+    <None Include="Bitmaps\headphone.png" />
+    <None Include="Bitmaps\logout.png" />
+    <None Include="Bitmaps\limited-edition.png" />
+    <Content Include="Bitmaps\nave.gif" />
+    <None Include="Bitmaps\naveNormal.gif" />
+    <None Include="Bitmaps\naveUP.gif" />
+    <None Include="Bitmaps\pepperoni-pizza.jpeg" />
+    <None Include="Bitmaps\pizza_quesos.jpg" />
+    <None Include="Bitmaps\wildebeest.jpg" />
+    <None Include="Bitmaps\wolf.jpg" />
+    <None Include="Bitmaps\shutdown48.png" />
+    <None Include="Bitmaps\process.png" />
+    <None Include="Bitmaps\sign-out.png" />
+    <Content Include="Dictionary\armyofme.mp3" />
+    <Content Include="Dictionary\IDontWantToLiveWithoutYou.mp3" />
+    <Content Include="Dictionary\ThroughGlass.mp3" />
+    <Content Include="Lambdas\Archivo.xml" />
+    <Content Include="Bitmaps\ice-kolbi2010.jpg" />
+    <None Include="Bitmaps\superturbo.gif" />
+    <None Include="Bitmaps\turbo.gif" />
+    <None Include="Patrones_Diseno\Abstract Factory\Diagrama Abstract Factory.cd" />
+    <None Include="Patrones_Diseno\Factory\Simple Factory.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="https://sscweb.gsfc.nasa.gov/WS/ssc/2/SatelliteSituationCenterService%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\Agente\</RelPath>
+      <UpdateFromURL>https://sscweb.gsfc.nasa.gov/WS/ssc/2/SatelliteSituationCenterService%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Controles_Agente_SatelliteSituationCenterService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\bin\Debug\RealState.exe.config
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\bin\Debug\RealState.exe
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\bin\Debug\RealState.pdb
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\obj\Debug\RealState.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\obj\Debug\RealState.Properties.Resources.resources
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\obj\Debug\RealState.csproj.GenerateResource.cache
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\obj\Debug\RealState.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\obj\Debug\RealState.exe
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\obj\Debug\RealState.pdb
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\obj\Debug\RealState.Login.resources
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\RealState\obj\Debug\RealState.Registro.resources

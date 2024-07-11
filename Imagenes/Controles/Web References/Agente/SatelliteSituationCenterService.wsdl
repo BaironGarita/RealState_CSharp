@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://ssc.spdf.gsfc.nasa.gov/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="SatelliteSituationCenterService" targetNamespace="http://ssc.spdf.gsfc.nasa.gov/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="https://sscweb.gsfc.nasa.gov:443/WS/ssc/2/SatelliteSituationCenterService?xsd=1" namespace="http://ssc.spdf.gsfc.nasa.gov/" />
+    </xsd:schema>
+  </types>
+  <message name="getPrivacyAndImportantNotices">
+    <part name="parameters" element="tns:getPrivacyAndImportantNotices" />
+  </message>
+  <message name="getPrivacyAndImportantNoticesResponse">
+    <part name="parameters" element="tns:getPrivacyAndImportantNoticesResponse" />
+  </message>
+  <message name="SSCExternalException">
+    <part name="fault" element="tns:SSCExternalException" />
+  </message>
+  <message name="getAcknowledgements">
+    <part name="parameters" element="tns:getAcknowledgements" />
+  </message>
+  <message name="getAcknowledgementsResponse">
+    <part name="parameters" element="tns:getAcknowledgementsResponse" />
+  </message>
+  <message name="getAllSatellites">
+    <part name="parameters" element="tns:getAllSatellites" />
+  </message>
+  <message name="getAllSatellitesResponse">
+    <part name="parameters" element="tns:getAllSatellitesResponse" />
+  </message>
+  <message name="getAllSpaseObservatories">
+    <part name="parameters" element="tns:getAllSpaseObservatories" />
+  </message>
+  <message name="getAllSpaseObservatoriesResponse">
+    <part name="parameters" element="tns:getAllSpaseObservatoriesResponse" />
+  </message>
+  <message name="getAllGroundStations">
+    <part name="parameters" element="tns:getAllGroundStations" />
+  </message>
+  <message name="getAllGroundStationsResponse">
+    <part name="parameters" element="tns:getAllGroundStationsResponse" />
+  </message>
+  <message name="getDataFiles">
+    <part name="parameters" element="tns:getDataFiles" />
+  </message>
+  <message name="getDataFilesResponse">
+    <part name="parameters" element="tns:getDataFilesResponse" />
+  </message>
+  <message name="SSCResourceLimitExceededException">
+    <part name="fault" element="tns:SSCResourceLimitExceededException" />
+  </message>
+  <message name="SSCDatabaseLockedException">
+    <part name="fault" element="tns:SSCDatabaseLockedException" />
+  </message>
+  <message name="getKmlFiles">
+    <part name="parameters" element="tns:getKmlFiles" />
+  </message>
+  <message name="getKmlFilesResponse">
+    <part name="parameters" element="tns:getKmlFilesResponse" />
+  </message>
+  <message name="getGraphs">
+    <part name="parameters" element="tns:getGraphs" />
+  </message>
+  <message name="getGraphsResponse">
+    <part name="parameters" element="tns:getGraphsResponse" />
+  </message>
+  <message name="getData">
+    <part name="parameters" element="tns:getData" />
+  </message>
+  <message name="getDataResponse">
+    <part name="parameters" element="tns:getDataResponse" />
+  </message>
+  <portType name="SatelliteSituationCenterInterface">
+    <operation name="getPrivacyAndImportantNotices">
+      <input wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getPrivacyAndImportantNoticesRequest" message="tns:getPrivacyAndImportantNotices" />
+      <output wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getPrivacyAndImportantNoticesResponse" message="tns:getPrivacyAndImportantNoticesResponse" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getPrivacyAndImportantNotices/Fault/SSCExternalException" name="SSCExternalException" message="tns:SSCExternalException" />
+    </operation>
+    <operation name="getAcknowledgements">
+      <input wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAcknowledgementsRequest" message="tns:getAcknowledgements" />
+      <output wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAcknowledgementsResponse" message="tns:getAcknowledgementsResponse" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAcknowledgements/Fault/SSCExternalException" name="SSCExternalException" message="tns:SSCExternalException" />
+    </operation>
+    <operation name="getAllSatellites">
+      <input wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAllSatellitesRequest" message="tns:getAllSatellites" />
+      <output wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAllSatellitesResponse" message="tns:getAllSatellitesResponse" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAllSatellites/Fault/SSCExternalException" name="SSCExternalException" message="tns:SSCExternalException" />
+    </operation>
+    <operation name="getAllSpaseObservatories">
+      <input wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAllSpaseObservatoriesRequest" message="tns:getAllSpaseObservatories" />
+      <output wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAllSpaseObservatoriesResponse" message="tns:getAllSpaseObservatoriesResponse" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAllSpaseObservatories/Fault/SSCExternalException" name="SSCExternalException" message="tns:SSCExternalException" />
+    </operation>
+    <operation name="getAllGroundStations">
+      <input wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAllGroundStationsRequest" message="tns:getAllGroundStations" />
+      <output wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAllGroundStationsResponse" message="tns:getAllGroundStationsResponse" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getAllGroundStations/Fault/SSCExternalException" name="SSCExternalException" message="tns:SSCExternalException" />
+    </operation>
+    <operation name="getDataFiles">
+      <input wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getDataFilesRequest" message="tns:getDataFiles" />
+      <output wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getDataFilesResponse" message="tns:getDataFilesResponse" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getDataFiles/Fault/SSCExternalException" name="SSCExternalException" message="tns:SSCExternalException" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getDataFiles/Fault/SSCResourceLimitExceededException" name="SSCResourceLimitExceededException" message="tns:SSCResourceLimitExceededException" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getDataFiles/Fault/SSCDatabaseLockedException" name="SSCDatabaseLockedException" message="tns:SSCDatabaseLockedException" />
+    </operation>
+    <operation name="getKmlFiles">
+      <input wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getKmlFilesRequest" message="tns:getKmlFiles" />
+      <output wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getKmlFilesResponse" message="tns:getKmlFilesResponse" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getKmlFiles/Fault/SSCExternalException" name="SSCExternalException" message="tns:SSCExternalException" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getKmlFiles/Fault/SSCResourceLimitExceededException" name="SSCResourceLimitExceededException" message="tns:SSCResourceLimitExceededException" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getKmlFiles/Fault/SSCDatabaseLockedException" name="SSCDatabaseLockedException" message="tns:SSCDatabaseLockedException" />
+    </operation>
+    <operation name="getGraphs">
+      <input wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getGraphsRequest" message="tns:getGraphs" />
+      <output wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getGraphsResponse" message="tns:getGraphsResponse" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getGraphs/Fault/SSCExternalException" name="SSCExternalException" message="tns:SSCExternalException" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getGraphs/Fault/SSCResourceLimitExceededException" name="SSCResourceLimitExceededException" message="tns:SSCResourceLimitExceededException" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getGraphs/Fault/SSCDatabaseLockedException" name="SSCDatabaseLockedException" message="tns:SSCDatabaseLockedException" />
+    </operation>
+    <operation name="getData">
+      <input wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getDataRequest" message="tns:getData" />
+      <output wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getDataResponse" message="tns:getDataResponse" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getData/Fault/SSCExternalException" name="SSCExternalException" message="tns:SSCExternalException" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getData/Fault/SSCResourceLimitExceededException" name="SSCResourceLimitExceededException" message="tns:SSCResourceLimitExceededException" />
+      <fault wsam:Action="http://ssc.spdf.gsfc.nasa.gov/SatelliteSituationCenterInterface/getData/Fault/SSCDatabaseLockedException" name="SSCDatabaseLockedException" message="tns:SSCDatabaseLockedException" />
+    </operation>
+  </portType>
+  <binding name="SatelliteSituationCenterPortBinding" type="tns:SatelliteSituationCenterInterface">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="getPrivacyAndImportantNotices">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="SSCExternalException">
+        <soap:fault use="literal" name="SSCExternalException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="getAcknowledgements">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="SSCExternalException">
+        <soap:fault use="literal" name="SSCExternalException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="getAllSatellites">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="SSCExternalException">
+        <soap:fault use="literal" name="SSCExternalException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="getAllSpaseObservatories">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="SSCExternalException">
+        <soap:fault use="literal" name="SSCExternalException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="getAllGroundStations">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="SSCExternalException">
+        <soap:fault use="literal" name="SSCExternalException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="getDataFiles">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="SSCExternalException">
+        <soap:fault use="literal" name="SSCExternalException" namespace="" />
+      </fault>
+      <fault name="SSCResourceLimitExceededException">
+        <soap:fault use="literal" name="SSCResourceLimitExceededException" namespace="" />
+      </fault>
+      <fault name="SSCDatabaseLockedException">
+        <soap:fault use="literal" name="SSCDatabaseLockedException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="getKmlFiles">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="SSCExternalException">
+        <soap:fault use="literal" name="SSCExternalException" namespace="" />
+      </fault>
+      <fault name="SSCResourceLimitExceededException">
+        <soap:fault use="literal" name="SSCResourceLimitExceededException" namespace="" />
+      </fault>
+      <fault name="SSCDatabaseLockedException">
+        <soap:fault use="literal" name="SSCDatabaseLockedException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="getGraphs">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="SSCExternalException">
+        <soap:fault use="literal" name="SSCExternalException" namespace="" />
+      </fault>
+      <fault name="SSCResourceLimitExceededException">
+        <soap:fault use="literal" name="SSCResourceLimitExceededException" namespace="" />
+      </fault>
+      <fault name="SSCDatabaseLockedException">
+        <soap:fault use="literal" name="SSCDatabaseLockedException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="getData">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="SSCExternalException">
+        <soap:fault use="literal" name="SSCExternalException" namespace="" />
+      </fault>
+      <fault name="SSCResourceLimitExceededException">
+        <soap:fault use="literal" name="SSCResourceLimitExceededException" namespace="" />
+      </fault>
+      <fault name="SSCDatabaseLockedException">
+        <soap:fault use="literal" name="SSCDatabaseLockedException" namespace="" />
+      </fault>
+    </operation>
+  </binding>
+  <service name="SatelliteSituationCenterService">
+    <port name="SatelliteSituationCenterPort" binding="tns:SatelliteSituationCenterPortBinding">
+      <soap:address location="https://sscweb.gsfc.nasa.gov:443/WS/ssc/2/SatelliteSituationCenterService" />
+    </port>
+  </service>
+</definitions>

@@ -1,0 +1,388 @@
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\bin\Debug\Controles.exe.config
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\bin\Debug\Controles.exe
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\bin\Debug\Controles.pdb
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmDictionary.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmAcercade.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmColorDialog.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmComboBox.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmBoton.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmCheckbox.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmConversionesdeTipo.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmDataTimePicker.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmEjecutable.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmFolderBrowserDialog.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmFuncionesMatematicas.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmGrid.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmJSON.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmLambdaExpresions.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmListBox.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmListView.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmManejoString.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmMaskedTextBox.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmNumericUpDown.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmNumerosAleatorios.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmOpenFileDialog.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmParametros.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmAbstractFactory.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmFactoryMethod.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmFactory.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmObserver.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmProxy.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmSingleton.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmPilasColas.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmPrincipal.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmProgressBar.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmQuickResponse.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmReflection.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmRichText.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmSpeak.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmSplitContainer.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmSprite.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmStatusStrip.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmTabControl.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmTeclas.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmTimer.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmToolStrip.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmToolTip.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmTreeView.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\EjemploObjetos.frmEjemploAviones.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmPropertyGrid.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmUserControl.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.uscComprimir.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.uscEncriptar.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.frmXML.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.exe
+C:\Users\morera\Documents\Visual Studio 2015\Projects\Controles\obj\Debug\Controles.pdb
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\bin\Debug\Controles.exe.config
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.exe
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.pdb
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\bin\Debug\Controles.exe
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\bin\Debug\Controles.pdb
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmDictionary.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmAcercade.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmColorDialog.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmComboBox.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmBoton.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmCheckbox.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmConversionesdeTipo.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmDataTimePicker.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmEjecutable.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmFolderBrowserDialog.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmFuncionesMatematicas.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmGrid.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmJSON.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmLambdaExpresions.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmListBox.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmListView.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmManejoString.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmMaskedTextBox.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmNumericUpDown.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmNumerosAleatorios.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmOpenFileDialog.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmParametros.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmAbstractFactory.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmFactoryMethod.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmFactory.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmObserver.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmProxy.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmSingleton.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmPilasColas.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmPrincipal.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmProgressBar.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmQuickResponse.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmReflection.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmRichText.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmSpeak.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmSplitContainer.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmSprite.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmStatusStrip.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTabControl.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTeclas.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTimer.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmToolStrip.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmToolTip.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTreeView.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\EjemploObjetos.frmEjemploAviones.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmPropertyGrid.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmUserControl.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.uscComprimir.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.uscEncriptar.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmXML.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTreeView2.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.frmState.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\Controles\obj\Debug\Controles.csproj.CopyComplete
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\bin\Debug\Controles.exe.config
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\bin\Debug\Controles.exe
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\bin\Debug\Controles.pdb
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmDictionary.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmAcercade.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmColorDialog.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmComboBox.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmBoton.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmCheckbox.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmConversionesdeTipo.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmDataTimePicker.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmEjecutable.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmFolderBrowserDialog.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmFuncionesMatematicas.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmGrid.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmJSON.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmLambdaExpresions.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmListBox.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmListView.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmManejoString.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmMaskedTextBox.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmNumericUpDown.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmNumerosAleatorios.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmOpenFileDialog.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmParametros.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmAbstractFactory.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmFactoryMethod.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmFactory.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmObserver.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmProxy.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmSingleton.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmState.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmPilasColas.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmPrincipal.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmProgressBar.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmQuickResponse.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmReflection.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmRichText.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmSpeak.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmSplitContainer.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmSprite.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmStatusStrip.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTabControl.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTeclas.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTimer.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmToolStrip.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmToolTip.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTreeView.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\EjemploObjetos.frmEjemploAviones.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmPropertyGrid.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmTreeView2.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmUserControl.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.uscComprimir.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.uscEncriptar.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.frmXML.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.csproj.CopyComplete
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.exe
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\Controles\obj\Debug\Controles.pdb
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\bin\Debug\Controles.exe.config
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\bin\Debug\Controles.exe
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\bin\Debug\Controles.pdb
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmDictionary.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmAcercade.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmColorDialog.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmComboBox.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmBoton.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmCheckbox.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmConversionesdeTipo.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmDataTimePicker.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmEjecutable.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmFolderBrowserDialog.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmFuncionesMatematicas.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmGrid.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmJSON.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmLambdaExpresions.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmListBox.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmListView.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmManejoString.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmMaskedTextBox.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmNumericUpDown.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmNumerosAleatorios.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmOpenFileDialog.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmParametros.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmAbstractFactory.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmFactoryMethod.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmFactory.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmObserver.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmProxy.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmSingleton.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmState.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmPilasColas.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmPrincipal.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmProgressBar.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmQuickResponse.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmReflection.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmRichText.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmSpeak.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmSplitContainer.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmSprite.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmStatusStrip.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmTabControl.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmTeclas.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmTimer.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmToolStrip.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmToolTip.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmTreeView.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmPropertyGrid.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmTreeView2.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmUserControl.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.uscComprimir.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.uscEncriptar.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmXML.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.csproj.CopyComplete
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.exe
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.pdb
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmEjemploAviones.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmParallel.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmWebApi.resources
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.frmWebService.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmDictionary.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmAcercade.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmColorDialog.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmComboBox.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmBoton.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmCheckbox.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmConversionesdeTipo.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmDataTimePicker.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmEjecutable.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmFolderBrowserDialog.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmFuncionesMatematicas.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmGrid.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmJSON.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmLambdaExpresions.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmListBox.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmListView.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmManejoString.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmMaskedTextBox.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmNumericUpDown.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmNumerosAleatorios.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmOpenFileDialog.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmParallel.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmParametros.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmAbstractFactory.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmFactoryMethod.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmFactory.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmObserver.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmProxy.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmSingleton.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmState.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmPilasColas.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmPrincipal.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmProgressBar.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmQuickResponse.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmReflection.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmRichText.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmWebService.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmSpeak.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmSplitContainer.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmSprite.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmStatusStrip.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmTabControl.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmTeclas.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmTimer.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmToolStrip.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmToolTip.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmTreeView.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmEjemploAviones.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmPropertyGrid.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmTreeView2.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmUserControl.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.uscComprimir.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.uscEncriptar.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmWebApi.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.frmXML.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.exe
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.pdb
+C:\Users\Morera\Desktop\Controles\bin\Debug\Controles.exe.config
+C:\Users\Morera\Desktop\Controles\bin\Debug\Controles.exe
+C:\Users\Morera\Desktop\Controles\bin\Debug\Controles.pdb
+C:\Users\Morera\Desktop\Controles\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\Morera\Desktop\Controles\obj\Debug\Controles.csproj.CopyComplete
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\obj\Debug\Controles.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2019\Projects\ISW411\Controles\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\bin\Debug\Controles.exe.config
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\bin\Debug\Controles.exe
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\bin\Debug\Controles.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmDictionary.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmAcercade.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmColorDialog.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmComboBox.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmBoton.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmCheckbox.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmConversionesdeTipo.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmDataTimePicker.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmEjecutable.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmFolderBrowserDialog.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmFuncionesMatematicas.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmGrid.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmJSON.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmLambdaExpresions.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmListBox.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmListView.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmManejoString.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmMaskedTextBox.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmNumericUpDown.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmNumerosAleatorios.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmOpenFileDialog.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmParallel.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmParametros.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmAbstractFactory.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmFactoryMethod.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmFactory.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmObserver.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmProxy.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmSingleton.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmState.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmPilasColas.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmPrincipal.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmProgressBar.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmQuickResponse.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmReflection.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmRichText.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmWebService.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmSpeak.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmSplitContainer.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmSprite.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmStatusStrip.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmTabControl.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmTeclas.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmTimer.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmToolStrip.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmToolTip.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmTreeView.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmEjemploAviones.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmPropertyGrid.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmTreeView2.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmUserControl.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.uscComprimir.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.uscEncriptar.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmWebApi.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.frmXML.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.csproj.Up2Date
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.exe
+D:\Documents\Visual Studio 2022\Projects\ISW411\Controles\obj\Debug\Controles.pdb
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\Imagenes\Controles\obj\Debug\Controles.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\Imagenes\Controles\obj\Debug\Controles.exe
+C:\Users\Usuario\Documentos\Dev\Progra 3\Proyecto\Imagenes\Controles\obj\Debug\Controles.pdb

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Controles.Claro">
+    <Position X="4" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAACIAAQAA=</HashCode>
+      <FileName>Patrones_Diseno\Factory Method\Claro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controles.ICE">
+    <Position X="0.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAACIAAQAA=</HashCode>
+      <FileName>Patrones_Diseno\Factory Method\ICE.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controles.Factura">
+    <Position X="7" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAAAAAAABAAAAACgIAAAAAAAAAAA=</HashCode>
+      <FileName>Patrones_Diseno\Factory Method\Factura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Controles.IProveedor">
+    <Position X="2.25" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAAAIAAAAA=</HashCode>
+      <FileName>Patrones_Diseno\Factory Method\IProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TipoProveedor">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patrones_Diseno\Factory Method\Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
